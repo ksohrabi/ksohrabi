@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ksohrabi
-- 👀 I’m interested in ..list to be provided later
-- 🌱 I’m currently learning ... Solidity, Rust and improving JS and Python
+- 🌱 I’m currently learning ... Solidity, Rust and improving my JS and Python coding skills
 - 💞️ I’m looking to collaborate on ... Blockchain and ML related projects
 - 📫 How to reach me ... TBD
 
